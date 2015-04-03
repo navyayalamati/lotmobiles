@@ -1,0 +1,5 @@
+Fri Apr  3 23:04:43 IST 2015 crash report /var/crash/susres.2015-04-03_23:00:02.985450.crash detected
+/var/crash/susres
+/var/crash/susres
+
+** (system-crash-notification:1952): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-Ym8sNbXzlk: Connection refused

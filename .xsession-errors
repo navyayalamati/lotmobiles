@@ -1,0 +1,6 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: update-notifier-crash (/var/crash/susres.2015-04-03_23:00:02.985450.crash) main process (1893) terminated with status 1
+init: update-notifier-crash (/var/crash/susres.2015-04-01_14:21:41.686088.crash) main process (1891) terminated with status 1
+init: update-notifier-crash (/var/crash/susres.2015-04-01_18:53:38.572671.crash) main process (1892) terminated with status 1

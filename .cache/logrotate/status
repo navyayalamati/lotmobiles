@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/navya/.cache/upstart/indicator-printers.log" 2015-4-3-21:12:21
+"/home/navya/.cache/upstart/update-notifier-crash-_var_crash_susres.2015-04-03_23:00:02.985450.crash.log" 2015-4-3-23:0:0
+"/home/navya/.cache/upstart/gnome-session-Unity.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/indicator-sound.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/update-notifier-crash-_var_crash_susres.2015-04-01_18:53:38.572671.crash.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/window-stack-bridge.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/unity-settings-daemon.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/hud.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/at-spi2-registryd.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/dbus.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/update-notifier-crash-_var_crash_susres.2015-04-01_14:21:41.686088.crash.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/update-notifier-release.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/unity-panel-service.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/unity7.log" 2015-4-3-23:5:43
+"/home/navya/.cache/upstart/im-config.log" 2015-4-3-23:5:43

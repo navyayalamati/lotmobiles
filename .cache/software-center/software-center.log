@@ -1,0 +1,43 @@
+2015-04-01 14:41:55,936 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2015-04-01 14:41:57,255 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2015-04-01 14:41:57,523 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2015-04-01 14:41:57,538 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2015-04-01 14:41:57,568 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/python2.7/dist-packages/gi/importer.py', 51, 'find_module')'
+2015-04-01 14:41:57,568 - root - ERROR - Could not find any typelib for LaunchpadIntegration
+2015-04-01 14:41:57,668 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:42:03,020 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2015-04-01 14:42:03,021 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2015-04-01 14:42:03,078 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2015-04-01 14:42:20,973 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2015-04-01 14:48:23,154 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:32,873 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:47,746 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:48,718 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:49,633 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:50,507 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-01 14:48:51,732 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-03 23:54:45,181 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2015-04-03 23:54:46,374 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2015-04-03 23:54:46,892 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2015-04-03 23:54:46,911 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2015-04-03 23:54:46,959 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/python2.7/dist-packages/gi/importer.py', 51, 'find_module')'
+2015-04-03 23:54:46,959 - root - ERROR - Could not find any typelib for LaunchpadIntegration
+2015-04-03 23:54:47,066 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-03 23:54:52,344 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2015-04-03 23:54:52,345 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2015-04-03 23:54:52,415 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2015-04-03 23:56:00,639 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2015-04-04 00:09:18,370 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-04 00:09:28,412 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
