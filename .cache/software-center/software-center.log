@@ -41,3 +41,4 @@ DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination sp
 2015-04-03 23:56:00,639 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
 2015-04-04 00:09:18,370 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
 2015-04-04 00:09:28,412 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2015-04-04 00:44:04,411 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()

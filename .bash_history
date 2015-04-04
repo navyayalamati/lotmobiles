@@ -39,3 +39,28 @@ cd rails_projects/
 rails new app lot_mobiles
 cd app/
 rails s
+git status
+.git
+cd ..
+apt-get install git
+cd 
+apt-get install git
+git status
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:navyayalamati/lotmobiles.git
+git push -u origin master
+git add -i
+git commit -m 'assets'
+git push origin master
+git add -i
+git commit -m 'assets'
+git push origin master
+heroku create
+heroku login
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+cd rails_projects/
+cd app/
+git status
+git log

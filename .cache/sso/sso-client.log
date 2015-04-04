@@ -156,3 +156,17 @@
 2015-04-04 00:17:13,385:385.890960693 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
 2015-04-04 00:17:13,386:386.158943176 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
 2015-04-04 00:17:23,395:395.737886429 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f9df22f4398>.
+2015-04-04 00:45:11,333:333.98103714 - ubuntu_sso.utils.translation - WARNING - Translations not found, using null translator.
+2015-04-04 00:45:11,358:358.402013779 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2015-04-04 00:45:11,366:366.214036942 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2015-04-04 00:45:11,366:366.584062576 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2015-04-04 00:45:11,378:378.108024597 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2015-04-04 00:45:11,378:378.415107727 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2015-04-04 00:45:21,388:388.246059418 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7fe61ff9c398>.
+2015-04-04 00:50:12,355:355.396032333 - ubuntu_sso.utils.translation - WARNING - Translations not found, using null translator.
+2015-04-04 00:50:12,381:381.347894669 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2015-04-04 00:50:12,388:388.923883438 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2015-04-04 00:50:12,389:389.183998108 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2015-04-04 00:50:12,396:396.378040314 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2015-04-04 00:50:12,396:396.708965302 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2015-04-04 00:50:22,406:406.312942505 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f41565d7398>.
