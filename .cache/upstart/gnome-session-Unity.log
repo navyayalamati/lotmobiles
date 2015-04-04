@@ -1,2 +1,10 @@
 
 (gnome-terminal:2516): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+ERROR 2015-04-04 08:16:44 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-04-04 08:16:44 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-04-04 08:16:44 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:2741): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+WARN  2015-04-04 08:27:57 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(nm-applet:2167): GLib-CRITICAL **: Source ID 113 was not found when attempting to remove it
